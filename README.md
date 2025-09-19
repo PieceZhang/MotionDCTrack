@@ -126,13 +126,15 @@ Right: 3D motion trajectory ground truth measured by EMT and estimated 3D motion
 ## 📎 Citation
 If you find our work helpful, please consider citing our paper:
 
-MotionDCTrack: (official link will be updated soon)
+MotionDCTrack:
 ```
-@article{zhang2024motion,
-  title={Motion-Guided Dual-Camera Tracker for Endoscope Tracking and Motion Analysis in a Mechanical Gastric Simulator},
+@inproceedings{zhang2025motion,
+  title={Motion-guided dual-camera tracker for endoscope tracking and motion analysis in a mechanical gastric simulator},
   author={Zhang, Yuelin and Yan, Kim and Lam, Chun Ping and Fang, Chengyu and Xie, Wenxuan and Qiu, Yufu and Tang, Raymond Shing-Yan and Cheng, Shing Shin},
-  journal={arXiv preprint arXiv:2403.05146},
-  year={2024}
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={01--07},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
